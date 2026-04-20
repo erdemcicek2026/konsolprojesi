@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="konsolprojesi.MainPage">
+
+    <ScrollView>
+        <VerticalStackLayout Spacing="25" Padding="30" VerticalOptions="Center">
+            
+            <Label Text="Buzdolabı Şefi" 
+                   FontSize="28" 
+                   FontAttributes="Bold"
+                   HorizontalOptions="Center" />
+            
+            <Image x:Name="ImgFoto" 
+                   HeightRequest="300" 
+                   Aspect="AspectFit" />
+
+            <Button x:Name="BtnKamera" 
+                    Text="Fotoğraf Çek" 
+                    Clicked="OnKameraClicked" 
+                    Padding="10" />
+            
+            <Label x:Name="LblSonuc" 
+                   Text="Malzemeler bekleniyor..." 
+                   HorizontalOptions="Center" />
+                   
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>

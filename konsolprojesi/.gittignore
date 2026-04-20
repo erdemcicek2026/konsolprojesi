@@ -1,0 +1,9 @@
+# Derleme ve Çıktı Klasörleri
+bin/
+obj/
+publish/
+
+# Kullanıcıya Özel Ayarlar
+.vscode/
+*.user
+*.suo
