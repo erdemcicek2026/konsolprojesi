@@ -17,7 +17,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("konsolprojesi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+6b55beb2f061dd41f51a22ed7ee385617631e575")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+8dcca41c65cde6b8cbd0b6a81e1c361c054e20bf")]
 [assembly: System.Reflection.AssemblyProductAttribute("konsolprojesi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("konsolprojesi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
