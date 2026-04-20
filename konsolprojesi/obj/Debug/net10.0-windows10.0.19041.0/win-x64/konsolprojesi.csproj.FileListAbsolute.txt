@@ -216,3 +216,4 @@ C:\Users\ERDE13\konsolapp\konsolprojesi\konsolprojesi\obj\Debug\net10.0-windows1
 C:\Users\ERDE13\konsolapp\konsolprojesi\konsolprojesi\obj\Debug\net10.0-windows10.0.19041.0\win-x64\ProjectArchitectures.txt
 C:\Users\ERDE13\konsolapp\konsolprojesi\konsolprojesi\obj\Debug\net10.0-windows10.0.19041.0\win-x64\.winmd_cache\$Microsoft.Graphics.Canvas.winmd_638737227680000000.json
 C:\Users\ERDE13\konsolapp\konsolprojesi\konsolprojesi\obj\Debug\net10.0-windows10.0.19041.0\win-x64\.winmd_cache\$Microsoft.Web.WebView2.Core.winmd_638789222360000000.json
+C:\Users\ERDE13\konsolapp\konsolprojesi\konsolprojesi\obj\Debug\net10.0-windows10.0.19041.0\win-x64\konsolprojesi.sourcelink.json
